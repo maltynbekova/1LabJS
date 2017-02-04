@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Altynbekova Maira </title>
+<body> 
+<h1>Infb-14-2k </h1> 
+</body>
+</head>
+</html>
+<script>
+a=prompt("agimdagi baga", "")
+switch(a) {
+case("A+"): { alert("95"); break; }
+case("A"): { alert("90"); break; }
+case("B+"): { alert("85"); break; }
+case("B"): { alert("80"); break; }
+case("C+"): { alert("70"); break; }
+case("C"): { alert("65"); break; }
+}
+</script>
